@@ -1,4 +1,4 @@
-# Tool Adapter with interface
+# Tool Adapter with an electronic interface
 
 Tool change is easy with the basic tool adapter.
 However, if your tool needs cable, you need to mount the cable with the tool.
